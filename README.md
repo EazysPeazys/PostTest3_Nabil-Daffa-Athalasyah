@@ -53,13 +53,13 @@ Semua atribut di class AsetInvestasi ditetapkan sebagai private, sehingga tidak 
 
 <img width="468" height="24" alt="Screenshot 2025-09-23 220755" src="https://github.com/user-attachments/assets/e8534439-9cc3-4ea5-ad8d-7df982e8217d" />
 
-Mewarisi atribut dan method dari AsetInvestasi, lalu menambahkan atribut baru seperti tingkatBunga dan jatuhTempo.
+Mewarisi atribut dan method dari AsetInvestasi, lalu menambahkan atribut baru seperti tingkatBunga dari obligasi.
 
 **2. Saham:**
 
 <img width="432" height="22" alt="Screenshot 2025-09-23 220809" src="https://github.com/user-attachments/assets/87bd813e-5603-49bb-8c5e-b224b429df11" />
 
-Mewarisi atribut dan method dari AsetInvestasi, kemudian menambahkan atribut khusus seperti dividen dan jumlahSaham.
+Mewarisi atribut dan method dari AsetInvestasi, kemudian menambahkan atribut khusus seperti dividen dari perusahaan.
 
 ## Overriding:
 **1. Obligasi:**
