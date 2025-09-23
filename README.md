@@ -7,6 +7,8 @@ Kelas: C 2024**
 ## (Lanjutan POSTTEST 2 ==> POSTTEST 3)
 
 # A. GAMBAR FULL INPUT CODINGAN JAVA
+## Encapsulation:
+
 
 # B. GAMBAR FULL OUTPUT CODINGAN JAVA
 
