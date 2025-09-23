@@ -10,6 +10,12 @@ Kelas: C 2024**
 ## 1 Superclass & 2 Subclass:
 <img width="244" height="91" alt="Screenshot 2025-09-23 220829" src="https://github.com/user-attachments/assets/c8aeb3b8-a6ba-4e51-bbda-9268206725c4" />
 
+## Class Obligasi:
+<img width="870" height="521" alt="Screenshot 2025-09-23 223533" src="https://github.com/user-attachments/assets/b4df4491-b1b1-4b25-82b2-0c5bde2b5480" />
+
+## Class Saham:
+<img width="907" height="527" alt="Screenshot 2025-09-23 223504" src="https://github.com/user-attachments/assets/8aba0f31-4567-4ee2-ad9f-b9abad3bb785" />
+
 ## Encapsulation:
 <img width="833" height="763" alt="Screenshot 2025-09-23 212020" src="https://github.com/user-attachments/assets/27b8088b-5de8-42f7-b38a-2adc83a6c44c" />
 <img width="833" height="332" alt="Screenshot 2025-09-23 212052" src="https://github.com/user-attachments/assets/2e800f23-c701-4812-8651-e8b48d83c48c" />
