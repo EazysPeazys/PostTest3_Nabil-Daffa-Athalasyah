@@ -66,10 +66,10 @@ Mewarisi atribut dan method dari AsetInvestasi, kemudian menambahkan atribut khu
 
 <img width="837" height="141" alt="Screenshot 2025-09-23 221155" src="https://github.com/user-attachments/assets/2073ce80-194a-4e2e-b869-ced5df9d5246" />
 
-Method tampilkanInfo() ditulis ulang untuk menampilkan informasi tambahan mengenai tingkat bunga dan jatuh tempo.
+Method tampilkanInfo() dari obligasi ditulis ulang untuk menampilkan informasi tambahan mengenai tingkat bunga dari obligasi.
 
 **2. Saham:**
 
 <img width="796" height="155" alt="Screenshot 2025-09-23 221206" src="https://github.com/user-attachments/assets/69009b88-5456-4597-b281-274cdd04cf46" />
 
-Method tampilkanInfo() ditulis ulang untuk menampilkan detail tambahan berupa dividen dan jumlah saham.
+Method tampilkanInfo() dari saham ditulis ulang untuk menampilkan detail tambahan berupa dividen dari perusahaan.
